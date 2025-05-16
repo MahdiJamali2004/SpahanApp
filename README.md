@@ -1,5 +1,8 @@
 # Spahan
 
+> Developed for [Spahan Co.](https://www.spahanco.com)  
+> 📷 Follow on Instagram: [@spahanco](https://instagram.com/spahanco)
+
 Spahan is a smart SMS-based IoT controller application built with Kotlin and MVI architecture. Designed for controlling remote devices like doors, fans, and other smart systems via SMS, Spahan offers a reliable and intuitive interface for both home and industrial use.
 
 ## 📱 About the App
