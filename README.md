@@ -15,6 +15,41 @@ Spahan enables users to send SMS commands to multiple devices (each assigned a d
 
 Whether it’s for managing home systems, rooftop devices, or industrial components, Spahan simplifies remote control through a clean, user-friendly interface.
 
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="screenShots/1.jpg" width="90%" />
+    </td>
+    <td align="center" width="25%">
+      <img src="screenShots/2.jpg" width="90%" />
+    </td>
+    <td align="center" width="25%">
+      <img src="screenShots/3.jpg" width="90%" />
+    </td>
+    <td align="center" width="25%">
+      <img src="screenShots/4.jpg" width="90%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="screenShots/5.jpg" width="90%" />
+    </td>
+    <td align="center" width="25%">
+      <img src="screenShots/6.jpg" width="90%" />
+    </td>
+    <td align="center" width="25%">
+      <img src="screenShots/7.jpg" width="90%" />
+    </td>
+    <td align="center" width="25%">
+      <img src="screenShots/8.jpg" width="90%" />
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## ✨ Features
